@@ -1,0 +1,43 @@
+h2,
+h3 {
+  font-weight: bold;
+  color: var(--color-quartinery);
+}
+
+h2 {
+  font-size: 30px;
+  padding-bottom: 100px;
+}
+
+.personal-information p {
+  font-size: 13px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  font-weight: bold;
+}
+
+.personal-information {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.contact-information {
+  color: var(--color-quartinery);
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  color: var(--color-secondary);
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 60px;
+}

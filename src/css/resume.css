@@ -1,0 +1,29 @@
+@import 'variables/colors.css';
+@import 'variables/fonts.css';
+
+body {
+  padding: 100px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.contact-information {
+  font-size: 18px;
+}
+
+li {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+header {
+  width: 100%;
+  height: 10px;
+  background-color: var(--color-quartinery);
+}
+
+footer {
+  width: 100%;
+  height: 5px;
+  background-color: var(--color-quartinery);
+}
