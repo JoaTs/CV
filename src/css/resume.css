@@ -10,10 +10,14 @@ body {
   font-size: 18px;
 }
 
-li {
-  padding-top: 10px;
+.references {
   font-weight: bold;
   font-size: 14px;
+}
+
+li {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 header {

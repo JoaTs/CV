@@ -1,10 +1,10 @@
-h2,
-h3 {
+h1,
+h2 {
   font-weight: bold;
   color: var(--color-quartinery);
 }
 
-h2 {
+h1 {
   font-size: 30px;
   padding-bottom: 100px;
 }
@@ -26,11 +26,11 @@ h2 {
   font-weight: bold;
 }
 
-h3 {
+h2 {
   font-size: 20px;
 }
 
-h4 {
+h3 {
   color: var(--color-secondary);
   padding-top: 20px;
   font-weight: bold;
